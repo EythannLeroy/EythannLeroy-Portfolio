@@ -1,0 +1,33 @@
+	
+	body {
+		margin: 0;
+		font-family: Segoe Script, sans-serif;
+	}
+	
+	.main {
+		background: #0044ff; /* bleu foncé */
+		height: 185px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	
+	.main img {
+		width: 160px;
+		height: auto;
+	}
+	
+	.liens {
+		background: #1177de; /* bleu un peu foncé */
+		display: flex;
+		justify-content: space-evenly;
+		align-items: center;
+		height: 60px;
+		font-size: 22px;
+	}
+	
+	.liens a { /* garder un espace avec un a pour fonctionner */
+		color: white;
+		text-decoration: none;
+		font-weight: bold;
+	}
