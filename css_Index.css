@@ -6,17 +6,14 @@
 
 	.accueil {
 		font-align: center;
-		font-weight: bold;
-		
 	}
 
-	.main {
-		background: #0044ff; /* bleu foncé */
-		height: 185px;
-		display: flex;
-		justify-content: center;
-		align-items: center;
+	h1 {
+		font-align: center;
+		height: 120px;
+		font-weight: bold;
 	}
+		
 	
 	.liens {
 		background: #1177de; /* bleu un peu foncé */
