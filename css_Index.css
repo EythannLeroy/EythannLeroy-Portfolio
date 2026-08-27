@@ -32,3 +32,8 @@
 		text-decoration: none;
 		font-weight: bold;
 	}
+
+	.liens a:hover {
+		color: BDE3FF;
+		transform: scale(1.1);
+	}
