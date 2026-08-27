@@ -12,11 +12,6 @@
 		align-items: center;
 	}
 	
-	.main img {
-		width: 160px;
-		height: auto;
-	}
-	
 	.liens {
 		background: #1177de; /* bleu un peu foncé */
 		display: flex;
