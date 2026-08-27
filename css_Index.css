@@ -3,7 +3,13 @@
 		margin: 0;
 		font-family: Segoe Script, sans-serif;
 	}
-	
+
+	.accueil {
+		font-align: center;
+		font-weight: bold;
+		
+	}
+
 	.main {
 		background: #0044ff; /* bleu foncé */
 		height: 185px;
