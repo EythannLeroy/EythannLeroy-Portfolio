@@ -1,7 +1,7 @@
 	
 	body {
 		margin: 0;
-		font-family: Segoe Script, sans-serif;
+		font-family: sans-serif;
 	}
 
 	.accueil {
@@ -29,6 +29,7 @@
 		align-items: center;
 		height: 60px;
 		font-size: 22px;
+		font-family: Segoe Script;
 	}
 	
 	.liens a { /* garder un espace avec un a pour fonctionner */
