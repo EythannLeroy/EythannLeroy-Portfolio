@@ -16,6 +16,10 @@
 		font-weight: bold;
 	}
 
+	.titre {
+		font-size: 150px;
+	}
+
 	p {
 		text-align: center;
 		font-size: 30px;
