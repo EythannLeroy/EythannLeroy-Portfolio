@@ -26,6 +26,11 @@
 		font-size: 30px;
 		margin-top: 150px;
 	}
+
+	.presentation {
+		text-align: left;
+		font-weight: bold;
+	}
 		
 	
 	.liens {
